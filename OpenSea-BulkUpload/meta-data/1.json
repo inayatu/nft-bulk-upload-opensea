@@ -1,0 +1,10 @@
+{
+  "name": "Land in MetaCoaster - Plot # 040:050",
+  "description": "A great plot of land in the MetaWorld of MetaCoaster. Enjoy the ride!",
+  "image": "https://ipfs.io/ipfs/bafkreica3fmehqzci65a6azuq65j74h7mcwwydz7q7o4rywcaoeeslxppa",
+  "attributes": [
+    { "trait_type": "Location", "value": "North-East Quadrant" },
+    { "trait_type": "District", "value": "New York City" },
+    { "trait_type": "Plot number", "value": "040:050" }
+  ]
+}

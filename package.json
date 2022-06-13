@@ -1,0 +1,18 @@
+{
+  "name": "bulk-mint-nfts-v2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Inayat Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.1",
+    "ethereumjs-tx": "^2.1.2",
+    "request": "^2.88.2",
+    "web3": "^1.7.3"
+  }
+}
