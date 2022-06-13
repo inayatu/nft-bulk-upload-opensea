@@ -5,3 +5,4 @@ images/*
 csvs/*
 meta-data/*
 blockchain/contracts/*
+.DS_Store
